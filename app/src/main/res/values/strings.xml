@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">saisyuukadai</string>
+    <string name="app_name">タイマーアプリ</string>
     <string name="Start">スタート</string>
     <string name="Stop">ストップ</string>
     <string name="Reset">リセット</string>
-    <string name="name">東京都市大学</string>
+    <string name="name">rikuri1118</string>
     <string name="button3_10minutes">10分間</string>
     <string name="button4_20minutes">20分間</string>
     <string name="button5_30minutes">30分間</string>
