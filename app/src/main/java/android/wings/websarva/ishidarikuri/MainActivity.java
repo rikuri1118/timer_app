@@ -18,7 +18,7 @@ import android.view.Menu;
 import android.widget.TextView;
 import android.widget.Button;
 
-/*import static android.wings.websarva.saisyuukadai.R.id.button4_start;*/
+
 
 
 public class MainActivity extends AppCompatActivity {
